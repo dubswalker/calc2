@@ -17,5 +17,3 @@ To create a calculator to be used for spring semester math.
 
 - Python
 - TKinter
-- Adobe Fireworks
-
